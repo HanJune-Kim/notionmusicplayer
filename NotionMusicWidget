@@ -338,8 +338,8 @@ height: 100%;
     </div>
     <div id="player-content">
       <div id="album-art">
-        <img src="https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/artworks-EeNrPwZqsm7zUWU3-FiPqFA-t500x500.jpg" class="active" id="_1">
-        <img src="https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/artworks-000460144251-c0tue8-t500x500.jpg" id="_2">
+        <img src="https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/artworks-000460144251-c0tue8-t500x500.jpg" class="active" id="_1">
+        <img src="https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/artworks-EeNrPwZqsm7zUWU3-FiPqFA-t500x500.jpg" id="_2">
         <img src="https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_3.jpg" id="_3">
         <img src="https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_4.jpg" id="_4">
         <img src="https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_5.jpg" id="_5">
@@ -408,8 +408,8 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2"],
     trackUrl = [
-      "https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/Marshmello%20x%20Jonas%20Brothers%20-%20Leave%20Before%20You%20Love%20Me%20(Lyrics)%20(320%20kbps).mp3",
       "https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/bruno_major_easily.mp3",
+      "https://raw.githubusercontent.com/HanJune-Kim/notionmusicplayer/main/Marshmello%20x%20Jonas%20Brothers%20-%20Leave%20Before%20You%20Love%20Me%20(Lyrics)%20(320%20kbps).mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
